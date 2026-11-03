@@ -1,0 +1,22 @@
+{
+  "name": "NoteUp!",
+  "short_name": "NoteUp!",
+  "lang": "de",
+  "start_url": "./de/flute/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f3",
+  "theme_color": "#f5f5f3",
+  "icons": [
+    {
+      "src": "images/logo-flute-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo-flute-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

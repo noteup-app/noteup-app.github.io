@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>NoteUp!</title>
+  <rect width="512" height="512" fill="#e3edf8"/>
+  <g stroke="#a9bdd6" stroke-linecap="round">
+    <path d="M256,156 V128" stroke-width="14" transform="rotate(-20 256 355.6)"/>
+    <path d="M256,156 V128" stroke-width="14" transform="rotate(+20 256 355.6)"/>
+    <path d="M256,154 V131" stroke-width="12" stroke-opacity="0.75" transform="rotate(-40 256 355.6)"/>
+    <path d="M256,154 V131" stroke-width="12" stroke-opacity="0.75" transform="rotate(+40 256 355.6)"/>
+    <path d="M256,152 V134" stroke-width="10" stroke-opacity="0.5" transform="rotate(-60 256 355.6)"/>
+    <path d="M256,152 V134" stroke-width="10" stroke-opacity="0.5" transform="rotate(+60 256 355.6)"/>
+  </g>
+  <polyline points="230,140 256,114 282,140" fill="none" stroke="#1f5fae" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="256" y1="352" x2="256" y2="178" stroke="#0b0b0b" stroke-width="21" stroke-linecap="round"/>
+  <ellipse cx="215" cy="368" rx="52" ry="36" transform="rotate(-24 215 368)" fill="#0b0b0b"/>
+</svg>

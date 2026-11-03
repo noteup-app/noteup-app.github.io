@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>NoteUp!</title>
+  <rect width="512" height="512" rx="112" fill="#f5e4e9"/>
+  <polyline points="218,166 256,128 294,166" fill="none" stroke="#9b2d4b" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="262" y1="340" x2="262" y2="200" stroke="#0b0b0b" stroke-width="36" stroke-linecap="round"/>
+  <ellipse cx="212" cy="368" rx="66" ry="46" transform="rotate(-24 212 368)" fill="#0b0b0b"/>
+</svg>
